@@ -1,0 +1,6 @@
+{
+  "name": "Lakeside Adventure Community",
+  "description": "A Kisumu-based eco-adventure and wellness initiative promoting mental well-being, environmental conservation, and social connection through hikes, cycling, and island escapes in East Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
